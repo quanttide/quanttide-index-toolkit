@@ -1,7 +1,7 @@
 [project]
 name = "quanttide"
-version = "0.1.1"
-description = "量潮基础工具箱（Python SDK）"
+version = "0.2.0"
+description = "量潮统一入口（Python SDK）——管理各 toolkit 作为插件"
 readme = "README.md"
 requires-python = ">=3.11"
 license = "Apache-2.0"
