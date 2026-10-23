@@ -1,6 +1,6 @@
 # quanttide
 
-量潮基础工具箱的 Python SDK。
+量潮基础标准库的 Python SDK。
 
 ## 安装
 

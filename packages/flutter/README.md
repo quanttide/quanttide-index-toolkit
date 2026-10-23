@@ -1,4 +1,4 @@
 # `flutter-quanttide`
 
-量潮Flutter工具箱
+量潮Flutter标准库
 
